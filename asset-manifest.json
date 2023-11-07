@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OIBSIP_Task3_To-do/static/css/main.22b366cd.css",
+    "main.js": "/OIBSIP_Task3_To-do/static/js/main.00a115ca.js",
+    "static/js/787.97a945da.chunk.js": "/OIBSIP_Task3_To-do/static/js/787.97a945da.chunk.js",
+    "index.html": "/OIBSIP_Task3_To-do/index.html",
+    "main.22b366cd.css.map": "/OIBSIP_Task3_To-do/static/css/main.22b366cd.css.map",
+    "main.00a115ca.js.map": "/OIBSIP_Task3_To-do/static/js/main.00a115ca.js.map",
+    "787.97a945da.chunk.js.map": "/OIBSIP_Task3_To-do/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22b366cd.css",
+    "static/js/main.00a115ca.js"
+  ]
+}
