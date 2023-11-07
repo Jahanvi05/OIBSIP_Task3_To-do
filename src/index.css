@@ -5,9 +5,131 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(100, 99, 99);
+}
+
+.back
+{
+  background-color: #3d3c3a;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.toggbtn
+{
+  background-color: rgb(136, 134, 134);
+  border: none;
+  font-size: 30px;
+  border-radius: 5%;
+  color: white;
+  box-sizing: content-box;
+  color: black;
+}
+
+
+.active
+{
+  background-color:#31802a;
+  color: aliceblue;
+}
+
+.faicons
+{
+  font-size: 45px;
+  cursor: pointer;
+}
+
+.submitbtn
+{
+  background-color:#31802a;
+  color: white;
+  font-size: 22px;
+}
+
+.submitbtn:hover
+{
+  background-color:#1e5c18;
+  color: white;
+}
+
+
+.inp:hover
+{
+  border: 2px solid green;
+}
+
+
+.inp[type=text]:focus {
+  border: 3px solid green;
+}
+
+
+.title
+{
+  font-size: 35px;
+}
+
+
+.desc
+{
+  font-size: 25px;
+}
+
+
+.inp
+{
+  font-size: 20px;
+}
+
+
+.bgtask
+{
+  background-color: #3d3c3a;
+  box-shadow:  3px 3px 3px 3px #3d3c3a;
+  padding-top: 10px;
+  width:55%;
+}
+
+
+.bgtask:hover
+{
+  box-shadow:  3px 3px 4px 4px #6d706d;
+}
+
+
+.toggtdcombtn
+{
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+
+.todohead
+{
+  margin-top: 5.2rem;
+  font-weight: 700;
+  font-stretch: expanded;
+}
+
+.icondel
+{
+  color:#d61320;
+}
+
+.icondel:hover
+{
+  color:#9a0b14;
+}
+
+.iconcomp
+{
+  color: #0cb012;
+}
+
+.iconcomp:hover
+{
+  color: #066d0a;
 }
